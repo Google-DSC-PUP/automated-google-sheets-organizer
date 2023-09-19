@@ -10,11 +10,17 @@ pandas==2.1.0
 **Editor access to all the google sheets is required**
 
 1. Clone the repository
-2. Install needed libraries
+    ~~~
+    git clone https://github.com/Google-DSC-PUP/automated-google-sheets-organizer.git
+    ~~~
 
+2. Install needed libraries
+    ~~~
     pip install -r requirements.txt
+    ~~~
 
 
 3. Run the script
-
+    ~~~
     py main.py
+    ~~~
